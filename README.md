@@ -13,9 +13,6 @@ Coffre Obsidian (source de vérité)
               python kg/agent.py   ▼
         Agent LangGraph (Mistral) ── outils : cypher · recherche · lire_note
 ```
-
-L'idée vient de l'article de Fareed Khan, [Structuring 40 Million Documents into an Agentic Knowledge Graph](https://levelup.gitconnected.com/structuring-40-million-documents-into-an-agentic-knowledge-graph-92010e609dfa) : ne suivre que des relations déjà écrites, citer le chemin et refuser de répondre avant d'inventer.
-
 ## Le faux coffre
 
 `Obsidian/Demo` est un petit univers inventé pour montrer le format : l'archipel d'Ostrel, sa Garde, son Bureau des cartes et deux artefacts. Il contient tous les types de notes et tous les statuts.
