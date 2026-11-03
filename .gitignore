@@ -1,0 +1,23 @@
+# Tout est privé par défaut : seuls les fichiers listés ici sont publiés.
+/*
+!/.gitignore
+!/.env.example
+!/README.md
+!/requirements.txt
+!/docker-compose.yml
+!/kg/
+!/graph/
+!/Obsidian/
+
+/kg/*
+!/kg/*.py
+/kg/importer_fiches.py
+
+/graph/*
+!/graph/arbre.py
+
+/Obsidian/*
+!/Obsidian/Demo/
+/Obsidian/Demo/.obsidian/
+
+__pycache__/

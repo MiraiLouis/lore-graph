@@ -1,0 +1,3 @@
+- L'univers s'appelle « Ostrel » : un royaume insulaire de fantasy maritime.
+- Les « technologies » de ce coffre sont des artefacts. Emploie le mot « artefact » dans tes réponses.
+- Un personnage au statut ABANDONNÉ ne fait plus partie du récit : cite-le seulement si on le demande, en le signalant.
